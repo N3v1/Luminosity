@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Sandbox"
+      name = "Sandbox">
+      <Group
+         location = "group:Luminosity"
+         name = "Luminosity">
+         <Group
+            location = "group:Tests"
+            name = "Tests">
+            <Group
+               location = "group:LuminosityTests"
+               name = "LuminosityTests">
+               <FileRef
+                  location = "group:LuminosityTests.swift">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Package.swift">
+         </FileRef>
+         <Group
+            location = "group:Sources"
+            name = "Sources">
+            <Group
+               location = "group:Luminosity"
+               name = "Luminosity">
+               <FileRef
+                  location = "group:Luminosity.swift">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
